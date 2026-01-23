@@ -2,7 +2,7 @@
 
 This is the script that downloads the RightFielder Object and related data files for you to use.
 
-For the latest Melissa RightFielder Object release notes, please visit:
+To view the latest Melissa RightFielder Object release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/on-premise-api/rightfielder-object/
 
 
