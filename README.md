@@ -9,7 +9,7 @@ To view the latest Melissa RightFielder Object release notes or to subscribe to 
 ## Tested Environments
 - Windows 64-bit .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 8.0
-- Melissa RightFielder Object for 2026-01
+- Melissa RightFielder Object for 2026-02
 
 ## Getting started
 
